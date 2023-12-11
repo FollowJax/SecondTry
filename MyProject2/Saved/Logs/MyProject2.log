@@ -1156,3 +1156,5 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.12.11-11.28.44:152][826]LogFileHelpers: InternalPromptForCheckoutAndSave took 57 ms
 [2023.12.11-11.28.44:153][826]AssetCheck: New page: Asset Save: StaticMeshActor_33
 [2023.12.11-11.28.44:153][826]LogContentValidation: Display: Validating /Script/Engine.StaticMeshActor /Game/ThirdPerson/Maps/ThirdPersonMap.ThirdPersonMap:PersistentLevel.StaticMeshActor_33
+[2023.12.11-11.29.16:989][104]LogAssetRegistry: Warning: ScanPathsSynchronous: Package /Game/ThirdPerson/Maps/ThirdPersonMap1 does not exist, will not scan.
+[2023.12.11-12.04.32:866][452]LogDerivedDataCache: C:/Users/Artem/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:00:10.072 and deleted 0 files with total size 0 MiB and 0 empty folders. Scanned 5508 files in 7533 folders with total size 258 MiB.
